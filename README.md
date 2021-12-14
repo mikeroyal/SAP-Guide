@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/117213054-f79bd880-adaf-11eb-8fa7-7c9bc64d9850.png">
+ <img src="https://user-images.githubusercontent.com/45159366/146080656-0e41c11a-84c1-436f-98fe-2bf779622247.png">
   <br />
  SAP Guide
 </h1>
@@ -8,6 +8,10 @@
  
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
  
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/146080661-222f9e3f-6198-4fe5-a17c-aa11ede147c0.png">
+  <br />
+</p>
  
 # Table of Contents
 
@@ -40,10 +44,6 @@
  
  **SAP Cloud Platform. Source: [SAP](https://developers.sap.com/topics/cloud-sdk.html)**
 
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/117213079-fd91b980-adaf-11eb-8868-900a30a0f621.png">
-  <br />
-</p>
 
 # SAP Learning Resources
 
